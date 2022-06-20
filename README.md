@@ -1,1 +1,1 @@
-# Binary-Classification-Pytorch
+# Binary Classification Pytorch
