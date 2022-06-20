@@ -1,3 +1,3 @@
 # Binary Classification with Pytorch
 
-In this repository, 
+In this repository, you will learn about
